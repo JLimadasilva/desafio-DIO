@@ -1,8 +1,15 @@
 ## Anotações Sobre HTML
 
+<<<<<<< HEAD
 # A estrutura basica do HTML é a seguinte:
 e ela consiste basicamente em 3 pontos: **HTML, HEAD e BODY**
 e dentro de head nós temos o **titulo(title).**
+=======
+ A estrutura basica do HTML é a seguinte:
+E ela consiste basicamente em 3 pontos: **HTML, HEAD e BODY*
+E dentro de head nós temos o titulo(title).
+
+>>>>>>> 81052628f7da3e1bf378b26b390e47753d56f65b
 
 <!DOCTYPE html>
 <html lang="pr-br">
