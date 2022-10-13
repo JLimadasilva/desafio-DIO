@@ -1,0 +1,27 @@
+# Anotações HTML 
+
+## A estrutura básica do HTML é a seguinte:
+
+Ela consiste basicamente em 3 pontos: **HTML, HEAD e BODY**
+
+E dentro de head nós temos o **titulo(title).**
+
+A estrutura basica do HTML é a seguinte:
+E ela consiste basicamente em 3 pontos: **HTML, HEAD e BODY**
+E dentro de head nós temos o titulo**(title)**.
+
+<!--  
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aqui vai o titulo da pagina</title>
+</head>
+<body>
+</body>
+</html>
+
+-->
