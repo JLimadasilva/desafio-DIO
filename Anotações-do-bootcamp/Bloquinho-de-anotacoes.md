@@ -10,7 +10,7 @@ A estrutura basica do HTML é a seguinte:
 E ela consiste basicamente em 3 pontos: **HTML, HEAD e BODY**
 E dentro de head nós temos o titulo**(title)**.
 
-<!--  
+ 
 
 <!DOCTYPE html>
 <html lang="pt-br">
@@ -23,29 +23,22 @@ E dentro de head nós temos o titulo**(title)**.
 <body>
 </body>
 </html>
--->
-
 
 
 ## Sobre as tags:
 
-<!--
 <i></i> Deixa o texto em itálico
 
 <strong></strong> Deixa o texto negrito
---!>
 
 ### Existem tags que não vão ter fechamento</>
 
-<!--
 <input> esta tag cria um campo de texto e não tem tag de fechamento.
 
 <img> esta tag cria um campo e não tem tag de fechamento
---!>
 
 ### Atributos de tag
 
-<!--
 <input type="text"> esse **type** é um atributo para o input
 
 <strong id=""></strong> Esse **id** é a identidade
@@ -53,7 +46,6 @@ E dentro de head nós temos o titulo**(title)**.
 <strong style=""></strong>Esse **style** é usado para adicionar comando css como cor.
 
 <strong class=""></strong>Esse **class** é usado para dar um nome e depois formatar em css.
---!>
 
 ### Atributos específicos:
 
